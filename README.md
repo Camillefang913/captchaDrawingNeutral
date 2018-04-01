@@ -1,1 +1,1 @@
-# captchaDrawingNeutral
+# captchaDrawing
